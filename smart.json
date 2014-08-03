@@ -1,0 +1,14 @@
+{
+  "packages": {
+    "iron-router": {},
+    "handlebar-helpers": {},
+    "fast-render": {},
+    "collection-hooks": {},
+    "roles": {},
+    "moment-with-langs": {},
+    "bootstrap-3": {},
+    "jade": {},
+    "font-awesome": {},
+    "accounts-ui-bootstrap-3": {}
+  }
+}

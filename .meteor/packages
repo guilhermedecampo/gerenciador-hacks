@@ -1,0 +1,18 @@
+# Meteor packages used by this project, one per line.
+#
+# 'meteor add' and 'meteor remove' will edit this file for you,
+# but you can also edit it by hand.
+
+standard-app-packages
+accounts-base
+iron-router
+handlebar-helpers
+fast-render
+collection-hooks
+roles
+moment-with-langs
+bootstrap-3
+jade
+font-awesome
+accounts-github
+accounts-ui-bootstrap-3
